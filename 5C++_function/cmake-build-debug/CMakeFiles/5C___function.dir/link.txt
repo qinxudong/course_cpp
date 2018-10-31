@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/5C___function.dir/main.cpp.o  -o 5C___function 

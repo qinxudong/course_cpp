@@ -1,0 +1,3 @@
+/home/qin/code/course: c++/5C++_function/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/qin/code/course: c++/5C++_function/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/qin/code/course: c++/5C++_function/cmake-build-debug/CMakeFiles/5C___function.dir

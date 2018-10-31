@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/space_application_release.dir/main.cpp.o  -o space_application_release 

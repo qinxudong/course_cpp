@@ -1,0 +1,26 @@
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: /home/qin/code/course: c++/5C++_function/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_2f781/fast"
+/usr/bin/make -f CMakeFiles/cmTC_2f781.dir/build.make CMakeFiles/cmTC_2f781.dir/build
+make[1]: Entering directory '/home/qin/code/course: c++/5C++_function/cmake-build-debug/CMakeFiles/CMakeTmp'
+CMakeFiles/cmTC_2f781.dir/build.make:64: *** target pattern contains no '%'.  Stop.
+make[1]: Leaving directory '/home/qin/code/course: c++/5C++_function/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:121: recipe for target 'cmTC_2f781/fast' failed
+make: *** [cmTC_2f781/fast] Error 2
+
+
+
+Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
+Change Dir: /home/qin/code/course: c++/5C++_function/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_36507/fast"
+/usr/bin/make -f CMakeFiles/cmTC_36507.dir/build.make CMakeFiles/cmTC_36507.dir/build
+make[1]: Entering directory '/home/qin/code/course: c++/5C++_function/cmake-build-debug/CMakeFiles/CMakeTmp'
+CMakeFiles/cmTC_36507.dir/build.make:64: *** target pattern contains no '%'.  Stop.
+make[1]: Leaving directory '/home/qin/code/course: c++/5C++_function/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:121: recipe for target 'cmTC_36507/fast' failed
+make: *** [cmTC_36507/fast] Error 2
+
+
+
