@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/2basic_components_of_programs.dir/main.cpp.o  -o 2basic_components_of_programs 
